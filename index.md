@@ -2,14 +2,13 @@
 title: Home
 sections:
   - actions:
-      - label: Learn More
+      - label: Bize Ulaşın
         url: /features
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      - label: Biz Kimiz
+    content: Bize ulaşın sizin için sipariş durumunu açıklayalım.
     image: /images/images.jpg
     section_id: hero
-    title: This Is A Big Hero Headline
+    title: Taze Ahtapot İçin Tek Adres
     type: section_hero
   - bg: gray
     featureslist:
