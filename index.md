@@ -30,7 +30,7 @@ sections:
           olarak bu açığı giderip bu ürünleri bütün halde sizle buluşturup,
           kendi damak tadınıza uygun şekilde yapmanıza imkan hazırlamak
           istiyoruz.
-        image: images/feature1.png
+        image: /images/123.jpg
         title: Ege denizinin müthiş iki lezzeti.
       - actions:
           - label: Learn More
@@ -51,9 +51,7 @@ sections:
         image: images/feature3.png
         title: Cool Feature of Your Services
     section_id: Neden biz
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: ''
     title: Features
     type: section_features
   - bg: white
