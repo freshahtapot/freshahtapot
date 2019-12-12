@@ -52,7 +52,7 @@ sections:
         title: Cool Feature of Your Services
     section_id: Neden biz
     subtitle: ''
-    title: Features
+    title: Neden biz
     type: section_features
   - bg: white
     reviews:
