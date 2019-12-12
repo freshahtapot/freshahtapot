@@ -1,9 +1,7 @@
 ---
-title: About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
-img_path: images/about.jpg
+title: Hakkımızda
+subtitle: Ahtapot ve Kalamar
+img_path: /images/pixiz-12-12-2019-15-08-52.jpg
 menus:
   secondary:
     title: About Us
