@@ -19,11 +19,19 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Kalamar ve ahtapot sınırlı bölgelerde sınırlı zaman dilimi içerisinde
+          av veren lezzet harikalarıdır. Genellikle bir balıkhaneye gittiğinizde
+          çok zor bulabileceğiniz bu ikili için seçenekler ya bir balık
+          lokantası ya da meyhane şeklindedir. Ayrıca büyük marketlerin
+          dondurulmuş gıdalar bölümünde ise 200-300 er gr şeklinde hazırlanmış
+          pek çoğu ithal ve sabit şekilde (salata, zeytinyağlı) size sunulan
+          biçimleri mevcuttur. Bütün halinde alıp dilediğiniz şekilde
+          hazırlayabileceğiniz bir imkanda genel olarak yoktur. İşte bizde tam
+          olarak bu açığı giderip bu ürünleri bütün halde sizle buluşturup,
+          kendi damak tadınıza uygun şekilde yapmanıza imkan hazırlamak
+          istiyoruz.
         image: images/feature1.png
-        title: The Best Feature of Your Services
+        title: Ege denizinin müthiş iki lezzeti.
       - actions:
           - label: Learn More
             url: /features
@@ -42,7 +50,7 @@ sections:
           amet nec urna.
         image: images/feature3.png
         title: Cool Feature of Your Services
-    section_id: features
+    section_id: Neden biz
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
