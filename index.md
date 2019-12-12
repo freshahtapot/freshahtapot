@@ -8,7 +8,7 @@ sections:
     content: Bize ulaşın sizin için sipariş durumunu açıklayalım.
     image: /images/images.jpg
     section_id: hero
-    title: Taze Ahtapot İçin Tek Adres
+    title: ELİF UĞUR SENİ ÇOK ÖZLEMİŞ
     type: section_hero
   - bg: gray
     featureslist:
