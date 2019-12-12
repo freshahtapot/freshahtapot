@@ -4,7 +4,7 @@ subtitle: Ahtapot ve Kalamar
 img_path: /images/pixiz-12-12-2019-15-08-52.jpg
 menus:
   secondary:
-    title: About Us
+    title: Hakkımızda
     weight: 1
 layout: page
 ---
