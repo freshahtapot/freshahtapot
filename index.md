@@ -50,11 +50,35 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: images/feature3.png
-        title: Cool Feature of Your Services
+          _**Öncelikle ahtapotla başlayacak olursak;**_  Ahtapot ismi yunanca
+          sekiz bacak anlamına geliyor olup, bilimsel adı Octopus vulgaristir.
+          100 gram ahtapot, yaklaşık 30 gram tam protein, 326mg omega 3 içerir
+          ve 164 kalori değerindedir. Çok yüksek oranda B12 vitamini, demir,
+          bakır ve selenyum, yüksek oranda da niasin, B6 vitamini, fosfor,
+          potasyum ve çinko içerir. Ancak yüksek oranda sodyum içerdiğinden
+          dikkat edilmelidir.  Avcılığı ağcılık gibi klasik yöntemlerden ziyade
+          genelde dalma ve az sayıda da olta ile mümkündür. Sınırlı bir zaman
+          diliminde avlanması serbesttir, bu yüzden de ahtapotun her an bulunup
+          tüketilmesi mümkün değildir. Ahtapotta şoklama ve dondurma olayı bu
+          yüzden gerekliliktir. Ayrıca pişirilecek ahtapot daha önce temizlenmiş
+          ve sonra taze olarak dondurulmuş ise doğrudan haşlanabilir. Ahtapotun
+          etinin sert olmaması için genelde döverek yumuşatıldığı sanılır ama
+          dondurma işlemi yumuşaklık için gerek olan şarttır. _****_
+
+
+          _**Kalamara gelecek olursak;**_ Türkiye sularında bulunan tek çeşidi
+          Avrupa kalamarı olarak da adlandırılan Loligo vulgaristir. Pişmemiş
+          durumdaki kalamarın kalorisi 100 gramında 92 kalori olarak
+          açıklanabilir, dolayısıyla diyet yapan insanlar için de hiç dert
+          edilmemesi gereken bir üründür. Kalamar içerisinde  su,fosfor ,
+          protein,omega 3 ve kalsiyum içermektedir. Bir haşlanmış yumurtayla
+          aynı kolesterol düzeyine sahip olup kalp dostudur. Ayrıca pek çok
+          makalede doğal anti depresan olduğuda geçmektedir. Kalamar etinin
+          genelde sert olmaması için temizlenip dilimlenerek 1 gün soda, az
+          karbonat ve az limon suyu içerisinde buz dolabında bir kap içerisinde
+          bekletilmesi tavsiye edilmektedir.
+        image: /images/fayda.jpg
+        title: Rakının yanında çok iyi meze olan bu ikiliyi biraz tanıyalım mı?
     section_id: Neden biz
     subtitle: ''
     title: Neden biz
