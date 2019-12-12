@@ -3,12 +3,15 @@ title: Home
 sections:
   - actions:
       - label: Bize Ulaşın
-        url: /features
+        url: 'Tek:054xxxxxxxx'
       - label: Biz Kimiz
+        url: >-
+          Biz ahtapot ve kalamar avcılığıyla topladığımız ürünleri, taze ve
+          hızlı bir şekilde sizlere ulaştırmayı sağlayan avcı toplayıcılarız.
     content: Bize ulaşın sizin için sipariş durumunu açıklayalım.
     image: /images/images.jpg
     section_id: hero
-    title: Taze ve donmuş ahtapot temini için doğru yer.
+    title: Taze ve donmuş ahtapot ve kalamar temini için doğru yer.
     type: section_hero
   - bg: gray
     featureslist:
