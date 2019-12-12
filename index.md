@@ -36,9 +36,10 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          İşte burada önemli iki şey var bunlardan biri kuru buz. Kuru buz
-          karbondioksitten elde ediliyor olup erimesi yaklaşık 36-48 saati
-          bulmaktadır buda 3-4 gün demek. Kuru buzun yüzel sıcaklığı -78,5
+          İşte burada önemli iki şey var bunlardan biri kuru buz diğeri ise
+          ortam sıcaklığını koruyan strafor köpük. Kuru buza biraz değinecek
+          olursak karbondioksitten elde ediliyor olup erimesi yaklaşık 36-48
+          saati bulmaktadır buda 3-4 gün demek. Kuru buzun yüzel sıcaklığı -78,5
           derece olup bu sıcaklığın altında erimektedir. Dondurulmuş ve strafor
           içerisindeki bir ürüne konduğunda ise işlevini yerine getirip ürünün
           soğuk ve bozulmadan ulaşmasını sağlayacaktır. Ayrca normal buz gibi
