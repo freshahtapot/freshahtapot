@@ -8,7 +8,7 @@ sections:
     content: Bize ulaşın sizin için sipariş durumunu açıklayalım.
     image: /images/images.jpg
     section_id: hero
-    title: ELİF UĞUR SENİ ÇOK ÖZLEMİŞ
+    title: Taze ve donmuş ahtapot temini için doğru yer.
     type: section_hero
   - bg: gray
     featureslist:
