@@ -36,11 +36,15 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
-        title: Awesome Feature of Your Services
+          İşte burada önemli iki şey var bunlardan biri kuru buz. Kuru buz
+          karbondioksitten elde ediliyor olup erimesi yaklaşık 36-48 saati
+          bulmaktadır buda 3-4 gün demek. Kuru buzun yüzel sıcaklığı -78,5
+          derece olup bu sıcaklığın altında erimektedir. Dondurulmuş ve strafor
+          içerisindeki bir ürüne konduğunda ise işlevini yerine getirip ürünün
+          soğuk ve bozulmadan ulaşmasını sağlayacaktır. Ayrca normal buz gibi
+          eriyip suyunu salmaz ve eridiğinde havaya karışarak tamamen yok olur.
+        image: /images/kuru-buz.jpg
+        title: Ya gelene kadar bozulursa?
       - actions:
           - label: Learn More
             url: /features
