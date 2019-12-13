@@ -17,9 +17,7 @@ sections:
         highlight: true
         price: 100 tl (1kg)
         title: Kalamar
-      - actions:
-          - label: Order Now
-            url: /signup
+      - actions: []
         details: ''
         price: 60 tl (1kg)
         title: Sübye
