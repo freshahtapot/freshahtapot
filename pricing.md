@@ -30,31 +30,23 @@ sections:
   - bg: gray
     faqitems:
       - answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
-        question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
+          Anlaşmalı kargo firmamızın kapıda ödeme özelliğini kullanarak. Strafor
+          köpük içerisindeki ahtapotunuzu tartıp kontrol ederek ödemenizi
+          yapabilirsiniz.
+        question: Ödeme nasıl yapılacak size nasıl güvenebilirim?
       - answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit. 
-        question: Aliquam eget purus ante?
+          Bozulmuş ürünü bize iade etiğinizde aynı gün paranızı geri
+          alabilirsiniz.
+        question: Ürün bana bi aksaklıktan dolayı bozulmuş gelirse?
       - answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
-        question: Sed scelerisque in ipsum eu sollicitudin?
-      - answer: biz yollarız kapıda ödersiniz
-        question: kargo ne ayak?
-    section_id: faq
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
-    title: Frequently Asked Questions
+          Biz sizlere özel bir ürün gönderdiğimiz için bunun hazırlanması
+          aceleye getirilemeyecek kadar önemlidir. Dolayısıyla elimizde ürün
+          bulunmasına, kargo malzemeleri ve buz bulunmasına göre gönderim günü
+          farklılık gösterebilir.
+        question: Ürünümü istediğim zamana istediğim güne alabilirmiyim?
+    section_id: Sıkça sorulan sorular?
+    subtitle: Aklınıza takılan sorular için bizimle iletişime geçebilirsiniz.
+    title: Sıkça sorulan sorular?
     type: section_faq
 menus:
   main:
