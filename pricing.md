@@ -1,43 +1,31 @@
 ---
-title: Pricing
+title: Fiyatlama
 sections:
   - bg: gray
     pricingplans:
-      - actions:
-          - label: Order Now
-            url: /signup
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
-        price: $5/m
-        title: Basic
-      - actions:
-          - label: Order Now
-            url: /signup
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae
-          * Nullam sollicitudin ante
+      - actions: []
+        details: >-
+          * Ahtapot genel olarak standart 1kg ya da 2kg şeklinde avlanabilen bir
+          canlı değildir dolayısıyla ağırlığıda farklılık gösterecektir. Sipariş
+          verilen bir ahtapot 1 - 1,5 kg arasında tartılarak fiyatı hesaplanır
+          ve alıcıya bildirilir.
+        highlight: false
+        price: 80 tl (kg)
+        title: 'Ahtapot (1-1,5 kg)'
+      - actions: []
+        details: ''
         highlight: true
-        price: $49/m
-        title: Professional
+        price: 100 tl (1kg)
+        title: Kalamar
       - actions:
           - label: Order Now
             url: /signup
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus
-        price: $149/m
-        title: Enterprise
+        details: ''
+        price: 60 tl (1kg)
+        title: Sübye
     section_id: pricing
-    subtitle: You can have a separate pricing page or list everything on the home page.
-    title: Pricing Plans
+    subtitle: Sizin için en uygun fiyatlamayı sağlamaya çabaladık.
+    title: Fiyatlama şekli
     type: section_pricing
   - bg: gray
     faqitems:
