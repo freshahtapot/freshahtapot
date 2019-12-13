@@ -58,7 +58,7 @@ sections:
     type: section_faq
 menus:
   main:
-    title: Pricing
+    title: Fiyatlama
     weight: 3
 layout: landing
 ---
