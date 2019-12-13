@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Ana Sayfa
 sections:
   - actions:
       - label: Bize Ulaşın
@@ -108,7 +108,7 @@ sections:
     type: section_posts
 menus:
   main:
-    title: Home
+    title: Ana Sayfa
     weight: 1
 layout: landing
 ---
