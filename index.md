@@ -87,10 +87,10 @@ sections:
     reviews: []
     section_id: reviews
     subtitle: >-
-      Bize instagram, tw,tter ya da facebook üzerinden freshahtapot ismiyle
+      Bize instagram, twitter ya da facebook üzerinden freshahtapot nickiyle
       ulaşabilirsiniz.
     title: >-
-      Bizi sosyal medya aracılığıylada akip edebilir ya da iletişime
+      Bizi sosyal medya aracılığıylada takip edebilir ya da iletişime
       geçebilirsiniz.
     type: section_reviews
   - actions:
